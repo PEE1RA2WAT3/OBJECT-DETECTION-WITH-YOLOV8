@@ -58,6 +58,10 @@ These notes are from my own test on one road video, on my own computer. They are
 - It runs frame by frame at the original video size and does not save an output video.
 - I have not tried a GPU.
 
+## Detection screenshot from test on sample video
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/a2bbe32d-671e-45d4-9897-828a7494aaa4" />
+
+
 ## Ideas to try next
 
 - Lower the confidence cut-off (the Ultralytics default is 0.25) and compare the results.
